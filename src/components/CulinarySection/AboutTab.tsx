@@ -14,7 +14,7 @@ const AboutTab = () => {
           </div>
           <img
             src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000&auto=format&fit=crop"
-            alt="Culinary Experience"
+            alt="Culinary Experiences"
             className="rounded-lg w-full"
           />
         </div>

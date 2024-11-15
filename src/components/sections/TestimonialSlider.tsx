@@ -21,7 +21,7 @@ export const TestimonialSlider = () => {
   const testimonials = [
     {
       video: "/videos/two.mp4",
-      clientName: "Khalid Al Darsy",
+      clientName: "Kibria Zakaria",
       location: "Dhaka Cantonment, Dhaka 1206",
       feedback:
         "You can't go wrong with Chicken Mandi, I had it twice. The chicken was cooked perfectly, juicy & soft (usually mandi chicken is a bit dry). I would definitely recommend it.",
